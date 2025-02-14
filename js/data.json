@@ -3,65 +3,64 @@
       "faqData": [
           [
             {
-              "heading": "What is Adobe Firefly?",
-              "description": "Adobe Firefly is a family of creative generative AI models designed to transform how users create across Adobe’s products. Firefly’s generative AI capabilities are embedded in Adobe’s flagship apps like Photoshop and Illustrator, as well as integrated with Adobe Stock. Firefly empowers creators by enhancing workflows with AI, allowing users to generate content faster and more intuitively while maintaining creative control."
-            },
-            {
-              "heading": "What is generative AI?",
-              "description": "Generative AI refers to a type of artificial intelligence capable of creating new content from user inputs such as text, images, or other data. It can produce everything from realistic images and artwork to videos, text, 3D objects, and more. Generative AI tools like Adobe Firefly provide users with creative building blocks—such as brushes, textures, and patterns—helping them accelerate their design process while ensuring original and high-quality outcomes."
+              "heading": "What is Tesla Bot?",
+              "description": "Tesla Bot, also known as Optimus, is a humanoid AI-powered robot designed to assist humans by performing repetitive, dangerous, or mundane tasks in homes, industries, and commercial spaces."}
+,            {
+              "heading": "What tasks can Tesla Bot perform?",
+              "description": "It can assist with household chores, factory work, customer service, healthcare support, and security, improving efficiency and reducing human workload."
             }
           ],
           [
             {
-              "heading": "How is Adobe ensuring responsible AI use with Firefly?",
-              "description": "Adobe is committed to responsible AI use, and Firefly is trained on Adobe Stock images and other licensed and public domain content where copyrights have expired, ensuring that generated content is commercially safe. Adobe is also a founding member of the Content Authenticity Initiative (CAI) and collaborates with the Coalition for Content Provenance and Authenticity (C2PA) to provide transparency in content creation. Firefly allows creators to use Content Credentials, which lets others know when generative AI has been used, promoting authenticity and ethical AI practices."
+              "heading": "Is Tesla Bot safe to use?",
+              "description": "Yes, it is designed with advanced safety features, including motion control, obstacle detection, and AI-based fail-safes to prevent accidents or harm."
             },
             {
-              "heading": "What can I create with Adobe Firefly?",
-              "description": "Adobe Firefly enables creators to generate a wide variety of content, including images, 3D assets, illustrations, text effects, and more, simply by entering text prompts. It also assists with advanced tasks such as background removal, color correction, and content-aware fill. Firefly aims to streamline complex creative processes and empower users to generate, refine, and experiment with their designs faster, all while keeping full creative control."
+              "heading": "How does Tesla Bot work?",
+              "description": "Tesla Bot uses AI, machine learning, cameras, sensors, and Tesla’s Full Self-Driving (FSD) technology to navigate and interact with its surroundings autonomously."
             }
           ],
           [
             {
-              "heading": "Is Adobe Firefly available for commercial use?",
-              "description": "Yes, Adobe Firefly models are designed to support commercial use. Firefly’s AI models are trained on content that ensures users can confidently create and publish work for commercial purposes. As Firefly becomes more integrated with Creative Cloud applications, users will have a growing number of AI-assisted tools that help ensure their content is suitable for a wide range of commercial applications."
+              "heading": "Will Tesla Bot replace human jobs?",
+              "description": "Tesla Bot is designed to assist rather than replace workers, handling repetitive or hazardous tasks while allowing humans to focus on more creative and complex work."
             },
             {
-              "heading": "Can Adobe Firefly assist with 3D and video creation?",
-              "description": "Absolutely. Adobe is expanding Firefly's capabilities to include generative AI-powered features for 3D modeling, video production, and more. Users will be able to generate 3D textures, apply realistic effects, and even alter video content seamlessly using Firefly's intuitive AI tools. These capabilities will significantly enhance workflows for creators working with dynamic media like 3D and video."
+              "heading": "How is Tesla Bot powered?",
+              "description": "It operates on a rechargeable battery with an estimated runtime of 8–10 hours, optimized for energy efficiency and extended use."
             }
           ],
           [
             {
-              "heading": "How can I access Adobe Firefly?",
-              "description": "Adobe Firefly is integrated into Creative Cloud applications, allowing users to access generative AI tools directly within apps like Photoshop, Illustrator, and more. Additionally, users can explore Firefly through the Adobe Firefly web app, where they can experiment with various creative tasks and generate content quickly and easily."
+              "heading": "Can Tesla Bot interact with humans?",
+              "description": "Yes, it features voice recognition, speech capabilities, and adaptive learning, enabling it to understand and respond to human commands effectively."
             },
             {
-              "heading": "Is there a learning curve to using Adobe Firefly?",
-              "description": "Adobe Firefly is designed to be user-friendly and accessible to both beginners and professionals. Whether you are an experienced designer or just starting out, Firefly's intuitive text-based controls and seamless integration into Creative Cloud apps ensure that users can quickly start creating and experimenting with AI-powered tools without a steep learning curve."
+              "heading": "When will Tesla Bot be available for purchase?",
+              "description": "Tesla is still developing and testing Optimus, with commercial availability expected in the near future, depending on advancements and market readiness."
             }
           ]
         ],
       "cardsData": [
         {
-          "img": "https://www.adobe.com/products/media_1c2c9e62626b7b4df13882c013438725ae05464d6.jpeg?width=2000&format=webply&optimize=medium",
-          "title": "Generative Fill",
-          "desc": "The next generation of Generative Fill is now in the Photoshop (beta) app. Create richer, more lifelike images with more control than ever before."
+          "img": "../images/1st-bot.jpg",
+          "title": "Tesla Home Bot",
+          "desc": "Helps with daily household tasks like cleaning, cooking, caregiving, and security, especially the elderly and disabled.."
         },
         {
-          "img": "https://www.adobe.com/products/media_1719f96ecb7d15296d9a120dd8573ca9840388762.jpeg?width=2000&format=webply&optimize=medium",
-          "title": "Text to Image",
-          "desc": "With the new Firefly Image 3 Model, you can create higher-quality images with better composition, photorealistic details, and improved mood and lighting."
+          "img": "../images/3rd-bot.jpg",
+          "title": "Tesla Industrial Bot",
+          "desc": "Designed for factory and warehouse automation, handling tasks like lifting, assembling, quality control, improving efficiency and workplace safety."
         },
         {
-          "img": "https://www.adobe.com/products/media_119c157164edf3742aea6f8438c84b006d011fd02.png?width=2000&format=webply&optimize=medium",
-          "title": "Generative Shape Fill",
-          "desc": "With new Generative Shape Fill, you can quickly fill your vector outline and explore a variety of options that match the look and feel of your own artwork."
+          "img": "../images/2nd-bot.jpg",
+          "title": "Tesla Medical Bot",
+          "desc": " Supports healthcare professionals by transporting medical supplies, assisting patients, and aiding elderly care, improving hospital efficiency and patient well-being."
         },
         {
-          "img": "https://www.adobe.com/products/media_1600dc340a60fa12f7ba9870ebb04a0983d3c6b3c.jpeg?width=2000&format=webply&optimize=medium",
-          "title": "Generative Remove",
-          "desc": "See everything you want and nothing you don’t. It’s easy to remove distractions from the background with Generative Remove powered by Firefly generative AI."
+          "img": "../images/4th-bot.jpg",
+          "title": "Professional coffe maker",
+          "desc": "An AI-powered virtual assistant that automates tasks, and optimizes computing efficiency through deep learning and neural networks."
         }
       ],
       "partners": {
