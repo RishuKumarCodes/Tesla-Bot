@@ -7,6 +7,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
+        orbitron: ['Orbitron', 'sans-serif'],
         temp: ["gallery-modern"],
         grotesk: ["grotesk"],
         neuehaas: ["neuehaas"],
